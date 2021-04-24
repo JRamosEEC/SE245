@@ -1,0 +1,12 @@
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\obj\Debug\net5.0\Ramos_Lab1_GradeBook.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\obj\Debug\net5.0\Ramos_Lab1_GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\obj\Debug\net5.0\Ramos_Lab1_GradeBook.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\obj\Debug\net5.0\Ramos_Lab1_GradeBook.AssemblyInfo.cs
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\obj\Debug\net5.0\Ramos_Lab1_GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\bin\Debug\net5.0\Ramos_Lab1_GradeBook.deps.json
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\bin\Debug\net5.0\Ramos_Lab1_GradeBook.dll
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\bin\Debug\net5.0\ref\Ramos_Lab1_GradeBook.dll
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\bin\Debug\net5.0\Ramos_Lab1_GradeBook.pdb
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\obj\Debug\net5.0\Ramos_Lab1_GradeBook.dll
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\obj\Debug\net5.0\ref\Ramos_Lab1_GradeBook.dll
+C:\Users\justi\source\repos\Ramos_Lab1_GradeBook\Ramos_Lab1_GradeBook\obj\Debug\net5.0\Ramos_Lab1_GradeBook.pdb

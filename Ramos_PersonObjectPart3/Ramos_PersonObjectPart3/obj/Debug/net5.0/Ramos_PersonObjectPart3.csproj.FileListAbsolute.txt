@@ -1,0 +1,16 @@
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\bin\Debug\net5.0\Ramos_PersonObjectPart3.exe
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\bin\Debug\net5.0\Ramos_PersonObjectPart3.deps.json
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\bin\Debug\net5.0\Ramos_PersonObjectPart3.runtimeconfig.json
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\bin\Debug\net5.0\Ramos_PersonObjectPart3.runtimeconfig.dev.json
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\bin\Debug\net5.0\Ramos_PersonObjectPart3.dll
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\bin\Debug\net5.0\ref\Ramos_PersonObjectPart3.dll
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\bin\Debug\net5.0\Ramos_PersonObjectPart3.pdb
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\obj\Debug\net5.0\Ramos_PersonObjectPart3.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\obj\Debug\net5.0\Ramos_PersonObjectPart3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\obj\Debug\net5.0\Ramos_PersonObjectPart3.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\obj\Debug\net5.0\Ramos_PersonObjectPart3.AssemblyInfo.cs
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\obj\Debug\net5.0\Ramos_PersonObjectPart3.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\obj\Debug\net5.0\Ramos_PersonObjectPart3.dll
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\obj\Debug\net5.0\ref\Ramos_PersonObjectPart3.dll
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\obj\Debug\net5.0\Ramos_PersonObjectPart3.pdb
+C:\Users\justi\source\repos\Ramos_PersonObjectPart3\Ramos_PersonObjectPart3\obj\Debug\net5.0\Ramos_PersonObjectPart3.genruntimeconfig.cache

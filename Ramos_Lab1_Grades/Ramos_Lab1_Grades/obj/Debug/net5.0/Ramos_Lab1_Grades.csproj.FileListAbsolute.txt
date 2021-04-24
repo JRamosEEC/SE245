@@ -1,0 +1,16 @@
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\bin\Debug\net5.0\Ramos_Lab1_Grades.exe
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\bin\Debug\net5.0\Ramos_Lab1_Grades.deps.json
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\bin\Debug\net5.0\Ramos_Lab1_Grades.runtimeconfig.json
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\bin\Debug\net5.0\Ramos_Lab1_Grades.runtimeconfig.dev.json
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\bin\Debug\net5.0\Ramos_Lab1_Grades.dll
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\bin\Debug\net5.0\ref\Ramos_Lab1_Grades.dll
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\bin\Debug\net5.0\Ramos_Lab1_Grades.pdb
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\obj\Debug\net5.0\Ramos_Lab1_Grades.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\obj\Debug\net5.0\Ramos_Lab1_Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\obj\Debug\net5.0\Ramos_Lab1_Grades.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\obj\Debug\net5.0\Ramos_Lab1_Grades.AssemblyInfo.cs
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\obj\Debug\net5.0\Ramos_Lab1_Grades.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\obj\Debug\net5.0\Ramos_Lab1_Grades.dll
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\obj\Debug\net5.0\ref\Ramos_Lab1_Grades.dll
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\obj\Debug\net5.0\Ramos_Lab1_Grades.pdb
+C:\Users\justi\source\repos\Ramos_Lab1_Grades\Ramos_Lab1_Grades\obj\Debug\net5.0\Ramos_Lab1_Grades.genruntimeconfig.cache
