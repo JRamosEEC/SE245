@@ -1,0 +1,10 @@
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\bin\Debug\Ramos_BookClassWinInterace.exe.config
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\bin\Debug\Ramos_BookClassWinInterace.exe
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\bin\Debug\Ramos_BookClassWinInterace.pdb
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\obj\Debug\Ramos_BookClassWinInterace.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\obj\Debug\Ramos_BookClassWinInterace.Properties.Resources.resources
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\obj\Debug\Ramos_BookClassWinInterace.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\obj\Debug\Ramos_BookClassWinInterace.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\obj\Debug\Ramos_BookClassWinInterace.exe
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\obj\Debug\Ramos_BookClassWinInterace.pdb
+C:\Users\justi\source\repos\Ramos_BookClassWinInterace\obj\Debug\Ramos_BookClassWinInterace.Form1.resources
