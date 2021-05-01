@@ -1,0 +1,10 @@
+C:\Users\justi\source\repos\Ramos_OOWinForm\bin\Debug\Week4_BookClassinWindows.exe.config
+C:\Users\justi\source\repos\Ramos_OOWinForm\bin\Debug\Week4_BookClassinWindows.exe
+C:\Users\justi\source\repos\Ramos_OOWinForm\bin\Debug\Week4_BookClassinWindows.pdb
+C:\Users\justi\source\repos\Ramos_OOWinForm\obj\Debug\Week5_BookClassinWindows.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Ramos_OOWinForm\obj\Debug\Week4_BookClassinWindows.Form1.resources
+C:\Users\justi\source\repos\Ramos_OOWinForm\obj\Debug\Week4_BookClassinWindows.Properties.Resources.resources
+C:\Users\justi\source\repos\Ramos_OOWinForm\obj\Debug\Week5_BookClassinWindows.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\Ramos_OOWinForm\obj\Debug\Week5_BookClassinWindows.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Ramos_OOWinForm\obj\Debug\Week4_BookClassinWindows.exe
+C:\Users\justi\source\repos\Ramos_OOWinForm\obj\Debug\Week4_BookClassinWindows.pdb
